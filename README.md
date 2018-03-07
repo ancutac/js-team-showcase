@@ -9,7 +9,8 @@ We are a growing team of professionals focusing our skills and efforts around th
 ### What we do
 We work on various projects from vanilla **JavaScript**, to REST APIs with **Express** and **Koa**, to complex front-end applications with **React** and **Angular** and native mobile applications with **React Native**. We are pushing the limits of the web and mobile every day and we challenge each other to come up with the best solutions for our customers.
 
-<iframe width="854" height="480" src="https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F16ykOXD9J-DMyB0_i7EGcqsd8kB1CQ7s1vmBJNnpJlEQ%2Fedit" frameborder="0" allowfullscreen></iframe>
+Explore our technology radar to get an overview on all technologies tried/adopted/wishlisted within our team.
+<iframe width="1024" height="900" src="https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F16ykOXD9J-DMyB0_i7EGcqsd8kB1CQ7s1vmBJNnpJlEQ%2Fedit" frameborder="0" allowfullscreen></iframe>
 
 ### How we do it
 We have a strong [team culture](https://github.com/FortechRomania/js-team-showcase/blob/master/team-culture.md) built around a few core values
